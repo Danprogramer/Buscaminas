@@ -123,9 +123,9 @@ public class Buscaminas {
         int filas = tableroVisible.length;
         int columnas = tableroVisible[0].length;
 
-        for (int i = 0; i < filas; i++) {
+        for (char[] chars : tableroVisible) {
             for (int j = 0; j < columnas; j++) {
-                if (tableroVisible[i][j] != ' ' && tableroVisible[i][j] != 'X') {
+                if (chars[j] != ' ' && chars[j] != 'X') {
                     casillasDescubiertas++;
                 }
             }
