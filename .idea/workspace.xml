@@ -10,12 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f11ba71c-80ff-43ea-a8b8-4ad2cfd55d30" name="Changes" comment="Third commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Laberinto_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tablero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TableroImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/ContarMinasCercanas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pom.xml/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Buscaminas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Buscaminas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laberinto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laberinto.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +51,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/blanco/Desktop/PROGRAMING & CODING/Laberinto/src/Main.java",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/blanco/Desktop/PROGRAMING &amp; CODING/Laberinto/Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/blanco/Desktop/PROGRAMING &amp; CODING/Laberinto/src/Test/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/Test/Java" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Testing">
+    <configuration type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="emulateTerminal" value="false" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="showDialogWithAdvancedSettings" value="false" />
+            <option name="threads" />
+            <option name="useMavenConfig" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../pipelines/target" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="Buscaminas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Buscaminas" />
       <module name="Laberinto" />
@@ -75,9 +139,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Laberinto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testing" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laberinto.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Laberinto_jar/Laberinto.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Buscaminas" />
+      <item itemvalue="JAR Application.Laberinto.jar" />
+      <item itemvalue="JUnit.Testing" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Testing" />
         <item itemvalue="Application.Buscaminas" />
+        <item itemvalue="JAR Application.Laberinto.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +177,8 @@
       <workItem from="1705341797565" duration="5722000" />
       <workItem from="1705506914530" duration="6269000" />
       <workItem from="1705946568871" duration="1834000" />
-      <workItem from="1706721583721" duration="2175000" />
+      <workItem from="1706721583721" duration="7052000" />
+      <workItem from="1706800548729" duration="3690000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <option name="closed" value="true" />
@@ -110,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705526899829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1706723993233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706723993233</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Third commit">
+      <option name="closed" value="true" />
+      <created>1706724055755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706724055755</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +222,21 @@
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pom.xml/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
